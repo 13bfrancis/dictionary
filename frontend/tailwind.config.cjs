@@ -14,13 +14,14 @@ module.exports = {
         ["light-grey"]: {
           900: "hsl(0, 0%, 51%)",
           500: "hsl(0,0%, 91%)",
+          400: "hsl(0,0%,96%)",
           300: "hsl(0, 0%, 2%)",
         },
         secondary: "hsl(274, 82%, 60%)",
         error: "hsl(0, 100%, 66%)",
       },
       fontFamily: {
-        sans: "",
+        sans: "'Inter', sans-serif",
         serif: "",
         mono: "",
       },
