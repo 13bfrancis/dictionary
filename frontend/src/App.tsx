@@ -20,5 +20,9 @@ export default () => {
 
   console.log(data);
 
-  return <h1 className="font-bold text-4xl">Hello world</h1>;
+  return (
+    <div className="min-h-full dark:text-white text-black-900 text-3xl">
+      hello
+    </div>
+  );
 };
